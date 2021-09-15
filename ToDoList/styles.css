@@ -1,0 +1,17 @@
+/* .Contain{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 700px;
+    border: solid black;
+} */
+
+.App {
+  font-family: sans-serif;
+  color: blue
+}
+
+.Completed {
+    font-family: sans-serif;
+    color: red;
+    text-decoration: line-through;
+  }
